@@ -72,7 +72,7 @@ h1 span{
 	clear:both;
     font-size: 11px;
     padding: 20px 0px;
-    text-transform:uppercase;
+    /* text-transform:uppercase; */
     width: 390px;
     height:55px;
     margin: 0 auto;
